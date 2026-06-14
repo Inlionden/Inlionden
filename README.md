@@ -94,7 +94,7 @@
   <a href="de"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Chukkala Nikhilesh Krishna's YouTube"/></a>&nbsp;&nbsp;
   <a href="mailto:nikhileshkrishnacoding@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Chukkala Nikhilesh Krishna's Email"/></a>&nbsp;&nbsp;
   <a href="xsdx"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/918688231988"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <!-- <a href="https://wa.me/918688231988"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> -->
 </p>
 
 <p align="center">
