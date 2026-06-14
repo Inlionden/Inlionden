@@ -1,196 +1,109 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Nikhilesh%20Krishna&fontSize=55&animation=fadeIn&fontAlignY=38&fontColor=FFD700&desc=AI%20Researcher%20%E2%80%A2%20Quantum%20Computing%20%E2%80%A2%20Systems%20Developer&descSize=20&descAlignY=58&descColor=FFA500" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Chukkala%20Nikhilesh%20Krishna&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Sot%20wswj&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FFD700&center=true&vCenter=true&width=650&lines=I+am+vengeance.+I+am+the+night.+I+am+...+a+researcher+%F0%9F%A6%87;Building+AI+Systems+%F0%9F%A7%A0;Exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;Research-first+mindset+%F0%9F%94%AC)](https://git.io/typing-svg)
-</div>
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
----
+## 📌 About Me
+- 🔬 I'm currently researching Cryptographic Federated Learning & Weakly Supervised Segmentation
+- 🚀 I'm currently building fluxds — a Python library for flexible data structure management
+- 🤖 I'm currently learning Robotics
 
-<table align="center" width="100%"><tr>
-<td width="55%" valign="top">
 
-## 🦇 About Me
+## 🧠 My Focus Areas
+- AI/ML Research
+- Agentic AI Development
+- System Design
 
-```python
-class NikhileshKrishna:
-    alias      = "The Dark Researcher"
-    name       = "Nikhilesh Krishna"
-    location   = "Vizag, Andhra Pradesh, India"
-    focus      = ["Quantum Computing", "Multimodal AI",
-                  "Computer Vision", "Federated Learning"]
-    philosophy = "I am vengeance. I am the night. I am... curious."
-    goal       = "Advance computational research at the frontier"
-    email      = "krishna03nikhilesh@gmail.com"
-    weakness   = None  # like Batman
-```
 
-🦇 Researching **Quantum Computing & AI Systems**  
-🌃 Publishing at **IEEE, Elsevier (Procedia) & Springer**  
-📖 Reading papers daily — translating theory into working systems  
-♟️ Chess enthusiast — strategic thinking, like a certain Dark Knight  
-⚡ Mindset: **Research-first. Engineer-second. Ship always.**
+## 🛠️ Languages & Tools
 
-</td>
-<td width="45%" align="center" valign="top">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bHVtNzBxZGF1MXVkNnkxc2ZtaHZ4YWRoaXZlc3N6amlkOHl6biZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation"/>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/nikhileshkrishna?label=Followers&style=for-the-badge&color=FFD700&labelColor=0d0d0d&logo=github&logoColor=FFD700)](https://github.com/nikhileshkrishna)
-[![Profile Views](https://komarev.com/ghpvc/?username=nikhileshkrishna&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS&labelColor=0d0d0d)](https://github.com/nikhileshkrishna)
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-</td>
-</tr></table>
+</p>
 
----
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
 
-## 🌃 Connect With Me
+</p>
 
-<div align="center">
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-nikhileshkrishna-FFD700?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=0d0d0d)](https://github.com/nikhileshkrishna "GitHub Profile")
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhileshkrishna-FFD700?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=0d0d0d)](https://www.linkedin.com/in/nikhileshkrishna "LinkedIn Profile")
-[![Gmail](https://img.shields.io/badge/Gmail-krishna03nikhilesh-FFD700?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0d0d0d)](mailto:krishna03nikhilesh@gmail.com "Send Email")
-[![Codeforces](https://img.shields.io/badge/Codeforces-nikhileshkrishna-FFD700?style=for-the-badge&logo=codeforces&logoColor=FFD700&labelColor=0d0d0d)](https://codeforces.com "Codeforces Profile")
-[![LeetCode](https://img.shields.io/badge/LeetCode-nikhileshkrishna-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=0d0d0d)](https://leetcode.com "LeetCode Profile")
-[![Chess.com](https://img.shields.io/badge/Chess.com-nikhileshkrishna-FFD700?style=for-the-badge&logo=lichess&logoColor=FFD700&labelColor=0d0d0d)](https://chess.com "Chess.com Profile")
+</p>
 
-</div>
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
 
----
+</p>
 
-## 🔬 Research Interests — The Bat-Lab
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-<div align="center">
+</p>
 
-| ⚛️ Quantum Computing | 🧠 Deep Learning | 👁️ Computer Vision | 🤖 Multimodal AI |
-|:---:|:---:|:---:|:---:|
-| Quantum circuits, Qiskit, cryptography | CNNs, Transformers, RL, PINNs | YOLO, object detection, segmentation | Vision + language models |
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhileshkrishna0309/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Chukkala Nikhilesh Krishna's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/Inlionden_03"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Chukkala Nikhilesh Krishna's Twitter"/></a>&nbsp;&nbsp;
+  <a href="de"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Chukkala Nikhilesh Krishna's YouTube"/></a>&nbsp;&nbsp;
+  <a href="mailto:nikhileshkrishnacoding@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Chukkala Nikhilesh Krishna's Email"/></a>&nbsp;&nbsp;
+  <a href="xsdx"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;
+  <a href="https://wa.me/918688231988"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
-| 🔐 Cryptography & Security | 🌿 AI for Social Good | 🤝 Federated Learning | 🕸️ Social Networks & AI |
-|:---:|:---:|:---:|:---:|
-| Hybrid encryption, time-lock mechanisms | Wildlife monitoring, assistive tech | Secure multi-node training | Misinformation, GNNs |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-| 🧬 Computational Biology | 🧪 Neuroscience | 🤖 Agentic Systems | ⚡ Efficient ML |
-|:---:|:---:|:---:|:---:|
-| Bio-inspired models | Brain-computer interfaces | Multi-agent reasoning, game theory | Quantization, distillation |
-
-</div>
-
----
-
-## 🦇 Tech Arsenal — The Bat-Cave
-
-<div align="center">
-<table width="92%">
-
-<tr>
-<td width="50%" valign="top" align="center">
-
-**⚛️ Quantum & Deep Learning**
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-FFD700?style=flat-square&logo=pytorch&logoColor=0d0d0d&labelColor=1a1a1a)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=flat-square&logo=tensorflow&logoColor=0d0d0d&labelColor=1a1a1a)](https://tensorflow.org)
-[![Qiskit](https://img.shields.io/badge/Qiskit-FFD700?style=flat-square&logo=ibm&logoColor=0d0d0d&labelColor=1a1a1a)](https://qiskit.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-FFD700?style=flat-square&logo=opencv&logoColor=0d0d0d&labelColor=1a1a1a)](https://opencv.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFD700?style=flat-square&logo=scikitlearn&logoColor=0d0d0d&labelColor=1a1a1a)](https://scikit-learn.org)
-[![SymPy](https://img.shields.io/badge/SymPy-FFD700?style=flat-square&logo=python&logoColor=0d0d0d&labelColor=1a1a1a)](https://sympy.org)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**🧩 Programming Languages**
-
-[![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=0d0d0d&labelColor=1a1a1a)](https://python.org)
-[![C](https://img.shields.io/badge/C-FFD700?style=flat-square&logo=c&logoColor=0d0d0d&labelColor=1a1a1a)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-FFD700?style=flat-square&logo=cplusplus&logoColor=0d0d0d&labelColor=1a1a1a)](https://cppreference.com)
-[![Java](https://img.shields.io/badge/Java-FFD700?style=flat-square&logo=openjdk&logoColor=0d0d0d&labelColor=1a1a1a)](https://java.com)
-[![Go](https://img.shields.io/badge/Go-FFD700?style=flat-square&logo=go&logoColor=0d0d0d&labelColor=1a1a1a)](https://go.dev)
-[![Rust](https://img.shields.io/badge/Rust-FFD700?style=flat-square&logo=rust&logoColor=0d0d0d&labelColor=1a1a1a)](https://rust-lang.org)
-[![MATLAB](https://img.shields.io/badge/MATLAB-FFD700?style=flat-square&logo=mathworks&logoColor=0d0d0d&labelColor=1a1a1a)](https://mathworks.com)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" align="center">
-
-**🤗 AI & Research Libraries**
-
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat-square&logo=huggingface&logoColor=0d0d0d&labelColor=1a1a1a)](https://huggingface.co)
-[![Cryptography](https://img.shields.io/badge/Cryptography-FFD700?style=flat-square&logo=gnuprivacyguard&logoColor=0d0d0d&labelColor=1a1a1a)](https://cryptography.io)
-[![ROS](https://img.shields.io/badge/ROS-FFD700?style=flat-square&logo=ros&logoColor=0d0d0d&labelColor=1a1a1a)](https://ros.org)
-[![NumPy](https://img.shields.io/badge/NumPy-FFD700?style=flat-square&logo=numpy&logoColor=0d0d0d&labelColor=1a1a1a)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-FFD700?style=flat-square&logo=pandas&logoColor=0d0d0d&labelColor=1a1a1a)](https://pandas.pydata.org)
-
-</td>
-<td valign="top" align="center">
-
-**🛠️ Infrastructure & Cloud**
-
-[![AWS](https://img.shields.io/badge/AWS-FFD700?style=flat-square&logo=amazonwebservices&logoColor=0d0d0d&labelColor=1a1a1a)](https://aws.amazon.com)
-[![Azure](https://img.shields.io/badge/Azure-FFD700?style=flat-square&logo=microsoftazure&logoColor=0d0d0d&labelColor=1a1a1a)](https://azure.microsoft.com)
-[![GCP](https://img.shields.io/badge/GCP-FFD700?style=flat-square&logo=googlecloud&logoColor=0d0d0d&labelColor=1a1a1a)](https://cloud.google.com)
-[![Docker](https://img.shields.io/badge/Docker-FFD700?style=flat-square&logo=docker&logoColor=0d0d0d&labelColor=1a1a1a)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-FFD700?style=flat-square&logo=kubernetes&logoColor=0d0d0d&labelColor=1a1a1a)](https://kubernetes.io)
-[![Firebase](https://img.shields.io/badge/Firebase-FFD700?style=flat-square&logo=firebase&logoColor=0d0d0d&labelColor=1a1a1a)](https://firebase.google.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD700?style=flat-square&logo=postgresql&logoColor=0d0d0d&labelColor=1a1a1a)](https://postgresql.org)
-[![Git](https://img.shields.io/badge/Git-FFD700?style=flat-square&logo=git&logoColor=0d0d0d&labelColor=1a1a1a)](https://git-scm.com)
-[![Flutter](https://img.shields.io/badge/Flutter-FFD700?style=flat-square&logo=flutter&logoColor=0d0d0d&labelColor=1a1a1a)](https://flutter.dev)
-
-</td>
-</tr>
-
-</table>
-</div>
-
----
-
-## 📊 GitHub Analytics — The Bat-Signal
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhileshkrishna&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d0d0d&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhileshkrishna&layout=compact&theme=github_dark&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d0d0d&langs_count=8" height="160" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhileshkrishna&theme=dark&hide_border=true&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=FFD700&background=0d0d0d&dates=c9d1d9" height="175" alt="GitHub Streak"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhileshkrishna&theme=github_dark" width="780" alt="GitHub Profile Summary"/>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-## 🏆 Achievements — Gotham's Finest
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details |
-|:---|:---|
-| 🌍 **ICPC Regional 2025** | Qualified for Amritapuri Regional Contest after 2 years of grinding |
-| 🚀 **NASA Space Apps 2024** | Best Engineering Solution Award — Led 5-member team |
-| 📐 **JEE Main** | 96.57 Percentile |
-| 📊 **CAT** | 95.16 Percentile |
-| 🔐 **Cyber Awareness Facilitator 2024** | Conducted workshops for 100+ school students |
-
-</div>
-
----
-
-## 📜 License
-
-MIT License — feel free to use, adapt, and build upon this work with attribution.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=150&section=footer&reversal=true&animation=fadeIn&desc=The%20night%20is%20darkest%20just%20before%20the%20dawn%20%E2%80%94%20keep%20researching&descSize=14&descAlignY=75&descColor=FFD700" alt="Footer"/>
-
-*"It's not who I am underneath, but what I build that defines me."*
-
-🦇 — Nikhilesh Krishna
-
-[![Star my repos](https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful-0d0d0d?style=for-the-badge&logo=github&logoColor=FFD700&color=FFD700)](https://github.com/nikhileshkrishna?tab=repositories)
-
-</div>
